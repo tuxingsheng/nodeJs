@@ -15,5 +15,10 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "avalon": "~1.5.5",
+    "mmRouter": "mm-router#*",
+    "requirejs": "~2.1.21"
+  }
 }
