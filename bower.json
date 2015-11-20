@@ -1,0 +1,19 @@
+{
+  "name": "hwcareer",
+  "description": "hwcareer project",
+  "main": "index.js",
+  "authors": [
+    "tuxingsheng"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
